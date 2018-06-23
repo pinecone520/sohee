@@ -1,0 +1,30 @@
+[
+  {
+    "id":1,
+    "name":"새우깡",
+    "brand":"농심",
+    "weight":"90g",
+    "kcal":"145kcal"
+  },
+  {
+    "id":2,
+    "name":"양파링",
+    "brand":"농심",
+    "weight":"84g",
+    "kcal":"380kcal"
+  },
+  {
+    "id":3,
+    "name":"오징어집 버터구이맛",
+    "brand":"농심",
+    "weight":"83g",
+    "kcal":"210kcal"
+  },
+  {
+    "id":4,
+    "name":"바나나킥",
+    "brand":"농심",
+    "weight":"75g",
+    "kcal":"150kcal"
+  }
+]
