@@ -9,6 +9,8 @@
 
 전체목록 - /snacks - Get
 
+한 항목만 보기 - /snacks/ID - Get
+
 목록추가 - /snacks - Put
 
 목록삭제 - /snacks - Delete
